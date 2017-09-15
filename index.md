@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<h1>Welcome to Europe PMC Tech Blog</h1>
-
-Here you can find techy stuff from Europe PMC.
+<h1>Welcome to Yuci's Development Blog</h1>
 
 <ul>
   {% for post in site.posts %}
